@@ -1,0 +1,14 @@
+{
+  "name": "backend-poject",
+  "version": "1.0.0",
+  "description": "A full functional backend Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascrip"
+  ],
+  "author": "Ajay kumar",
+  "license": "ISC"
+}
